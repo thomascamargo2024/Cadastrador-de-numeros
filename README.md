@@ -6,7 +6,7 @@
 
 ## 🚀 Demonstração
 
-![Cadastrador de Números](./assets/cadastrador.png)
+![Cadastrador de Números](./assets/cadastrador.PNG)
 
 ---
 
